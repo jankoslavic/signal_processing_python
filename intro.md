@@ -17,7 +17,3 @@ Pojasnilo: ker gre za izvršljivo knjigo, katere ključni element je, da jo bral
 ## Zahvala
 
 Za strokovno recenzijo knjige se najlepše zahvaljujem prof. dr. Mihi Boltežarju in prof. dr. Sašu Tomažiču.
-
-:::{note}
-Tako bomo označevali posebne opombe!
-:::

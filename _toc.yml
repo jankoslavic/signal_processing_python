@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 chapters:
+- file: kolofon
 # - file: markdown
 - file: notebooks/01 - Uvod
 - file: notebooks/02 - Fourierove vrste
