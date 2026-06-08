@@ -6,12 +6,12 @@ root: intro
 chapters:
 - file: kolofon
 # - file: markdown
-- file: notebooks/01 - Uvod
-- file: notebooks/02 - Fourierove vrste
-- file: notebooks/03 - Fourierova integralska transformacija
-- file: notebooks/04 - Linarni časovno invariantni sistemi
-- file: notebooks/05 - Časovno vzorčenje in frekvenčno prekrivanje
-- file: notebooks/06 - Diskretna Fourierova transformacija
-- file: notebooks/07 - Naključni procesi
-- file: notebooks/08 - Odziv linearnih sistemov na naključno vzbujanje
+- file: notebooks/01 - Introduction
+- file: notebooks/02 - Fourier Series
+- file: notebooks/03 - Fourier Transform
+- file: notebooks/04 - Linear Time-Invariant Systems
+- file: notebooks/05 - Sampling and Aliasing
+- file: notebooks/06 - Discrete Fourier Transform
+- file: notebooks/07 - Random Processes
+- file: notebooks/08 - Response of Linear Systems to Random Excitation
 - file: bibliography

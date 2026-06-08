@@ -1,22 +1,16 @@
-# Kolofon in CIP
+# Colophon and CIP
 
-:::{admonition} Kolofon
-Naslov dela: **Procesiranje signalov**
-Izdaja: 1. izdaja
+:::{admonition} Colophon
+Title: **Signal Processing**
+Edition: 1st edition
 
-Avtor: **prof. dr. Janko Slavič, u.d.i.s.**
+Author: **prof. dr. Janko Slavič**
 
-Recenzenta: prof. dr. Miha Boltežar, univ. dipl. inž., pred. dr. Sašo Tomažič, univ. dipl. inž. el.
+Reviewers: prof. dr. Miha Boltežar, pred. dr. Sašo Tomažič
 
-Jezikovni pregled: Manja Ocepek, mag. prim. knjiž. in mag. slov.
-
-Izdala in založila: Univerza v Ljubljani, Fakulteta za strojništvo, Ljubljana, 2025
+Published by: University of Ljubljana, Faculty of Mechanical Engineering, Ljubljana, 2025
 :::
 
-:::{admonition} CIP - Kataložni zapis o publikaciji
-Narodna in univerzitetna knjižnica v Ljubljani.
-
-[COBISS.SI](http://COBISS.SI)-ID [235134723](https://plus.cobiss.net/cobiss/si/sl/bib/235134723)
-
-ISBN 978-961-7187-16-8 (HTML)
+:::{admonition} CIP - Cataloguing-in-Publication record
+The Cataloguing-in-Publication record and ISBN for the English (HTML) edition are pending.
 :::

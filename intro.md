@@ -1,19 +1,19 @@
-*Učbenik za magistrski študij na Fakulteti za strojništvo Univerze v Ljubljani.*
-# Procesiranje signalov
+*Textbook for the master's study programme at the Faculty of Mechanical Engineering, University of Ljubljana.*
+# Signal Processing
 prof. dr. Janko Slavič
 
 
 
-## Predgovor
+## Preface
 
-Ta izvršljiv učbenik je nastal na podlagi raziskovalno-razvojnega dela [Laboratorija za dinamiko strojev in konstrukcij](https://www.ladisk.si). *Procesiranje signalov* ni samo ključnega pomena za številne znanstvene članke, ki smo jih objavili v vodilnih znanstvenih revijah področja (npr. [Mechanical Systems and Signal Processing](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)), ampak tudi pri številnih industrijskih projektih (npr. pri kontroli kvalitete izdelkov). Procesiranje signalov predstavlja tudi pomemben del monografije na temo vibracijskega utrujanja (glejte {cite:t}`slavic2020VF`), ki kot prva povezuje spektralne metode identifikacije vibracijske poškodovanosti s teorijo strukturne dinamike.
+This executable textbook is based on the research and development work of the [Laboratory for Dynamics of Machines and Structures](https://www.ladisk.si). *Signal processing* is not only of key importance for the numerous scientific articles we have published in the leading journals of the field (e.g. [Mechanical Systems and Signal Processing](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)), but also for many industrial projects (e.g. product quality control). Signal processing is also an important part of the monograph on vibration fatigue (see {cite:t}`slavic2020VF`), which is the first to connect spectral methods for the identification of vibration damage with the theory of structural dynamics.
 
-Učbenika na temo procesiranja signalov ni mogoče napisati, ne da bi se zahvalili avtorjem referenčnih monografij, ki so postavili temelje teorije naključnih procesov: {cite:t}`rice1944`, {cite:t}`bendat_2011`, {cite:t}`newland_1993`. Ta knjiga bo osredotočena na procesiranje signalov za uporabo v inženirski praksi na področju analize vibracij in zvoka ter bo v določeni meri sledila viru {cite:t}`shin2008`. Knjiga se naslanja tudi na vir {cite:t}`slavic2020VF`. 
+A textbook on signal processing cannot be written without thanking the authors of the reference monographs who laid the foundations of the theory of random processes: {cite:t}`rice1944`, {cite:t}`bendat_2011`, {cite:t}`newland_1993`. This book focuses on signal processing for use in engineering practice in the field of vibration and sound analysis, and to a certain extent follows the source {cite:t}`shin2008`. The book also draws on {cite:t}`slavic2020VF`.
 
-Mogoče se v tem trenutku zdi, da naključni procesi z inženirskimi izzivi nimajo veliko skupnega, ampak proti koncu te knjige bomo ugotovili, da obravnava praktično kateregakoli realnega sistema zahteva razumevanje teorije naključnih procesov, še najmanj zaradi negotovosti pri merjenju.
+It may seem at this point that random processes have little in common with engineering challenges, but toward the end of this book we will discover that the treatment of practically any real system requires an understanding of the theory of random processes, not least because of measurement uncertainty.
 
-Pojasnilo: ker gre za izvršljivo knjigo, katere ključni element je, da jo bralec/uporabnik lahko prilagaja, smo se zaradi omejitev uporabljene tehnologije pri pisanju morali odreči nekaterim uveljavljenim standardom oblikovanja tehničnih besedil. Slike tako niso podnaslovljene, sklici na enačbe/slike so navedeni relativno (npr. "spodaj", pri čemer bi bilo pravilno številčenje), pri strojno izpeljanih izrazih oblika ni nujno dosledna (npr. znak za imaginarno število $\textrm{i}$ ni pokončen, kot je pravilno).
+A note: because this is an executable book, whose key feature is that the reader/user can adapt it, the limitations of the technology used have forced us to abandon some of the established standards for formatting technical texts. The figures are therefore not captioned, references to equations/figures are given relatively (e.g. "below", where proper numbering would be appropriate), and in machine-derived expressions the form is not necessarily consistent (e.g. the symbol for the imaginary unit $\textrm{i}$ is not upright, as it should be).
 
-## Zahvala
+## Acknowledgements
 
-Za strokovno recenzijo knjige se najlepše zahvaljujem prof. dr. Mihi Boltežarju in prof. dr. Sašu Tomažiču.
+For the expert review of the book I sincerely thank prof. dr. Miha Boltežar and prof. dr. Sašo Tomažič.

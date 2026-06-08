@@ -209,7 +209,7 @@
          id="tspan4022-6"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="32.509167"
-         y="16.99564">Deterministični</tspan></text>
+         y="16.99564">Deterministic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -220,7 +220,7 @@
          id="tspan4022-6-1"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="-6.1082759"
-         y="51.750561">Harmonski</tspan></text>
+         y="51.750561">Harmonic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -231,12 +231,12 @@
          id="tspan14855"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="26.360348"
-         y="51.750561">Kompleksno</tspan><tspan
+         y="51.750561">Complex</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="26.360348"
          y="56.601261"
-         id="tspan14893">periodični</tspan></text>
+         id="tspan14893">periodic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -247,12 +247,12 @@
          id="tspan14859"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="52.651131"
-         y="51.750561">Skoraj</tspan><tspan
+         y="51.750561">Almost</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="52.651131"
          y="56.601261"
-         id="tspan17047">periodični</tspan></text>
+         id="tspan17047">periodic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -263,7 +263,7 @@
          id="tspan14863"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="66.249023"
-         y="51.750561">Prehodni</tspan></text>
+         y="51.750561">Transient</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -274,7 +274,7 @@
          id="tspan14867"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="88.58197"
-         y="51.750561">(Kaotični)</tspan></text>
+         y="51.750561">(Chaotic)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -285,7 +285,7 @@
          id="tspan23259"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="6.9606333"
-         y="34.381523">Periodični</tspan></text>
+         y="34.381523">Periodic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -296,7 +296,7 @@
          id="tspan24199"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="65.357155"
-         y="34.381523">Neperiodični</tspan></text>
+         y="34.381523">Aperiodic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -307,7 +307,7 @@
          id="tspan35309"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="116.1386"
-         y="51.750561">Ergodični</tspan></text>
+         y="51.750561">Ergodic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -318,7 +318,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="146.49065"
          y="51.750561"
-         id="tspan35315">Neergodični</tspan></text>
+         id="tspan35315">Non-ergodic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -329,7 +329,7 @@
          id="tspan35319"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="125.44392"
-         y="34.381523">Stacionarni</tspan></text>
+         y="34.381523">Stationary</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -340,7 +340,7 @@
          id="tspan35323"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="184.14743"
-         y="34.381523">Nestacionarni</tspan></text>
+         y="34.381523">Non-stationary</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -351,7 +351,7 @@
          id="tspan35327"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="157.30962"
-         y="16.99564">Naključni</tspan></text>
+         y="16.99564">Random</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -362,7 +362,7 @@
          id="tspan44387"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="97.104424"
-         y="-0.61557311">Signali</tspan></text>
+         y="-0.61557311">Signals</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 102.90253,0.94494823 V 6.8311388"

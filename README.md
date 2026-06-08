@@ -1,4 +1,4 @@
-# J. Slavič: Procesiranje signalov, 2023
-Ta knjiga je nastala na podlagi raziskovalno-razvojnega dela [Laboratorija za dinamiko strojev in konstrukcij](https://www.ladisk.si). Procesiranje signalov je elementarni del več deset člankov, objavljenih v vodilnih revijah področja (npr. Mechanical Systems and Signal Processing, Elsevier), kakor tudi bistven vsebinski del naprav za končno kontrolo, ki so implementirane v slovenski in tuji industriji. Procesiranje signalov predstavlja tudi pomemben del monografije na temo vibracijskega utrujanja (glejte Slavič et al. [2020]), ki kot prva povezuje spektralne metode identifikacije poškodovanosti s teorijo strukturne dinamike.
+# J. Slavič: Signal Processing, 2023
+This book is based on the research and development work of the [Laboratory for Dynamics of Machines and Structures](https://www.ladisk.si). Signal processing is an elementary part of dozens of articles published in the leading journals of the field (e.g. Mechanical Systems and Signal Processing, Elsevier), as well as an essential part of final-inspection devices implemented in Slovenian and foreign industry. Signal processing is also an important part of the monograph on vibration fatigue (see Slavič et al. [2020]), which is the first to connect spectral methods for damage identification with the theory of structural dynamics.
 
-Spletna knjiga se nahaja na naslovu: https://jankoslavic.github.io/procesiranje_signalov/intro.html.
+The online book is available at: https://jankoslavic.github.io/signal_processing_python/intro.html.
