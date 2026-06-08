@@ -1,5 +1,5 @@
 jupyterlab
-jupyter-book
+jupyter-book<2  # 1.x (Sphinx-based); v2 uses mystmd and is incompatible with _config.yml/_toc.yml
 matplotlib
 numpy
 sympy
